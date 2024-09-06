@@ -1,6 +1,6 @@
 ### Classify Song Genres from Audio Data
 
-Welcome! This notebook focuses on classifying songs as either "Hip-Hop" or "Rock" based on audio data, and solely on musical features. The dataset used is compiled by The Echo Nest and addresses the challenge of handling large music catalogs, commonly encountered in streaming services. This project demonstrates a step-by-step process to clean, preprocess, and reduce the dimensionality of the dataset using Principal Component Analysis (PCA), helping to visualize and capture the variance in the dataset. Finally, the processed data is classified using models like decision trees and logistic regression.
+Welcome! This notebook focuses on classifying songs as either "Hip-Hop" or "Rock" based on audio data, and solely on musical features like *acousticness*. The dataset used is compiled by The Echo Nest and addresses the challenge of handling large music catalogs, commonly encountered in streaming services. This project demonstrates a step-by-step process to clean, preprocess, and reduce the dimensionality of the dataset using Principal Component Analysis (PCA), helping to visualize and capture the variance in the dataset. Finally, the processed data is classified using models like decision trees and logistic regression.
 
 A general overview of the project:
 
