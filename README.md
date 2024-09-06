@@ -4,6 +4,6 @@ Welcome! This notebook focuses on classifying songs as either "Hip-Hop" or "Rock
 
 A general overview of the project:
 
-- Analyzed the raw audio data from The Echo Nest to categorize and classify the music genres as "Hip-Hop" or "Rock" for personalized recommendations on streaming services
+- Analyzed the raw audio data compiled by *The Echo Nest* to categorize and classify the music genres as "Hip-Hop" or "Rock" for personalized recommendations on streaming services
 - Implemented dimensionality reduction through Principal Component Analysis (PCA) to reduce the number of features and prevent overfitting; performed exploratory data visualizations and resampling to remove bias from the class distribution, and construct a more balanced and robust model
 - Applied systematic cross-validation and statistical methods to evaluate the model's performance and generalization capabilities, ensuring reliability and prevalence; this resulted in achieving an accuracy score of above 80% on the test set
